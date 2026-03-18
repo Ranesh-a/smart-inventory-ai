@@ -1,0 +1,15 @@
+pandas
+numpy
+torch
+matplotlib
+scikit-learn
+shap
+streamlit
+plotly
+joblib
+openpyxl
+fastapi
+uvicorn
+requests
+google-generativeai
+python-dotenv

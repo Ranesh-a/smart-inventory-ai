@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Data files
+*.csv
+*.db
+
+# ML models
+*.pkl
+models/
+
+# Cache
+cache/
+
+# Streamlit secrets
+.env
+.streamlit/secrets.toml
